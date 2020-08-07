@@ -1,0 +1,9 @@
+main: com.CaptainWolfie.HeadHunter.Main
+name: HyPlexHunter
+version: 1.0.0
+authors: [CaptainWolfieGR, HyPlex]
+
+commands:
+    sellhead:
+        usage: /sellhead
+        description: Opens a GUI where players can sell heads

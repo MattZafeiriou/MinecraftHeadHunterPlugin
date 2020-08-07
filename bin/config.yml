@@ -1,0 +1,185 @@
+inventory-name: "&aSell Heads"
+
+cancel-button: "&cCANCEL"
+accept-button: "&6SELL &e%amount% head(s) &6for &a$%cost%"
+info-button: "&7Drag all the heads into this inventory to sell them."
+
+heads-sold: "&6You sold &e%amount% &6head(s) for &a$%cost%&6!"
+sound-on-sell: "LEVEL_UP"
+
+heads-name: "&6%name% &eSkull"
+
+heads-lore: |-
+    &6This is a head.
+    &6Type &e/sellhead &6to sell it
+    &6for &a$%cost%&6!
+    
+place-heads: false #placing heads is buggy
+cant-place-msg: "&eYou can't place heads!"
+
+heads:
+    Human:
+        headname: "%player%"
+        name: "%player%'s"
+        price: 200.0
+        
+    Chicken:
+        headname: "MHF_Chicken"
+        name: "Chicken"
+        price: 10.0
+        
+    Pig:
+        headname: "MHF_Pig"
+        name: "Pig"
+        price: 10.0
+        
+    Cow:
+        headname: "MHF_Cow"
+        name: "Cow"
+        price: 10.0
+        
+    Sheep:
+        headname: "MHF_Sheep"
+        name: "Sheep"
+        price: 10.0
+        
+    # Skeleton includes wither skeleton
+    Skeleton:
+        headname: "MHF_Skeleton"
+        name: "Skeleton"
+        price: 80.0
+        
+    Zombie:
+        headname: "MHF_Zombie"
+        name: "Zombie"
+        price: 50.0
+        
+    Creeper:
+        headname: "MHF_Creeper"
+        name: "Creeper"
+        price: 90.0
+        
+    Spider:
+        headname: "MHF_Spider"
+        name: "Spider"
+        price: 60.0
+
+    Slime:
+        headname: "MHF_Slime"
+        name: "Slime"
+        price: 70.0
+        
+    Ghast:
+        headname: "MHF_Ghast"
+        name: "Ghast"
+        price: 50.0
+        
+    Zombiepigman:
+        headname: "MHF_PigZombie"
+        name: "Zombie Pigman"
+        price: 90.0
+        
+    Enderman:
+        headname: "MHF_Enderman"
+        name: "Enderman"
+        price: 90.0
+        
+    Cavespider:
+        headname: "MHF_CaveSpider"
+        name: "Cave Spider"
+        price: 150.0
+        
+    Silverfish:
+        headname: "MHF_CaveSpider"
+        name: "Silverfish"
+        price: 150.0
+        
+    Blaze:
+        headname: "MHF_Blaze"
+        name: "Blaze"
+        price: 150.0
+        
+    Magmacube:
+        headname: "PrestonPlayz"
+        name: "Magma Cube"
+        price: 100.0
+        
+    Bat:
+        headname: "MHF_Bat"
+        name: "Bat"
+        price: 20.0
+        
+    Witch:
+        headname: "MHF_Witch"
+        name: "Witch"
+        price: 70.0
+        
+    Endermite:
+        headname: "MHF_Endermite"
+        name: "Endermite"
+        price: 20.0
+        
+    Guardian:
+        headname: "MHF_Guardian"
+        name: "Guardian"
+        price: 180.0
+        
+    Squid:
+        headname: "MHF_Squid"
+        name: "Squid"
+        price: 10.0
+        
+    Wolf:
+        headname: "MHF_Wolf"
+        name: "Wolf"
+        price: 30.0
+        
+    Mooshroom:
+        headname: "MHF_Mooshroom"
+        name: "Mooshroom"
+        price: 60.0
+        
+    Ocelot:
+        headname: "MHF_Ocelot"
+        name: "Ocelot"
+        price: 60.0
+        
+    Horse:
+        headname: "11pounds"
+        name: "Horse"
+        price: 40.0
+        
+    Donkey:
+        headname: "DonkeY"
+        name: "Donkey"
+        price: 40.0
+        
+    Rabbit:
+        headname: "MHF_Rabbit"
+        name: "Rabbit"
+        price: 50.0
+        
+    Villager:
+        headname: "MHF_Villager"
+        name: "Villager"
+        price: 40.0
+        
+    Wither:
+        headname: "MHF_Wither"
+        name: "Wither"
+        price: 1000.0
+        
+    Enderdragon:
+        headname: "DahJP"
+        name: "Ender Dragon"
+        price: 1000.0
+        
+    Snowgolem:
+        headname: "OneShot_47"
+        name: "Snow Golem"
+        price: 10.0
+        
+    Irongolem:
+        headname: "0011010000110010"
+        name: "Iron Golem"
+        price: 60.0
