@@ -15,6 +15,11 @@ import com.CaptainWolfie.HeadHunter.Listeners.MobsKillEvents;
 
 import net.milkbowl.vault.economy.Economy;
 
+/*
+ * author: Matt Zafeiriou / CaptainWolfie
+ * 
+ * released on 7/8/2020
+ */
 public class Main extends JavaPlugin
 {
 
